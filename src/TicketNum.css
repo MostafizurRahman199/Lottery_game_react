@@ -1,0 +1,9 @@
+.ticket_num{
+    background-color: white;
+    color: black;
+    font-size: larger;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    font-weight: 800;
+}
